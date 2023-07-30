@@ -33,8 +33,8 @@ Start the shell:
 
 />> help
 
-  backup: start the backup.
-  exit: Exits the shell.
+  backup: start the backup. \n
+  exit: Exits the shell. \n
   help: Print the list of commands.
 
 
