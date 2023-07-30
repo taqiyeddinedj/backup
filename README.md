@@ -20,6 +20,7 @@ Run the Backup Shell script:
 
 
 python3 backup.py
+
 The shell will start, and you will see the prompt >>.
 
 Use the following commands within the shell:
