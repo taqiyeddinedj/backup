@@ -31,11 +31,11 @@ help: Print a list of available commands with their descriptions.
 
 Start the shell:
 
->> help
+/>> help
 
-backup: start the backup.
-exit: Exits the shell.
-help: Print the list of commands.
+  backup: start the backup.
+  exit: Exits the shell.
+  help: Print the list of commands.
 
 
 
