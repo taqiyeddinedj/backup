@@ -12,7 +12,7 @@ Clone this repository to your local machine using the following command:
 git clone https://github.com/taqiyeddinedj/backup.git
 Change directory to the cloned repository:
 cd backup-shell
-Usage
+#Usage
 Run the Backup Shell script:
 
 
@@ -38,5 +38,4 @@ exit: Exits the shell.
 help: Print the list of commands.
 
 
-Contributing
-Contributions to the Backup Shell project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
