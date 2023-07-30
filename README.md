@@ -9,9 +9,12 @@ Follow the instructions below to get started with the Backup Shell:
 Python 3.x
 Installation
 Clone this repository to your local machine using the following command:
+
 git clone https://github.com/taqiyeddinedj/backup.git
+
 Change directory to the cloned repository:
 cd backup-shell
+
 #Usage
 Run the Backup Shell script:
 
