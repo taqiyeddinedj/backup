@@ -32,25 +32,12 @@ Let's go through a quick example of how to use the Backup Shell:
 
 Start the shell:
 
->> python3 backup.py
-Add files and directories to be backed up by providing their full paths. For instance:
+>> help
 
->> Please provide me with the full path (or press Enter to finish):
->> /path/to/important_file.txt
-/path/to/important_file.txt added to backup targets.
->> /path/to/important_directory
-/path/to/important_directory added to backup targets.
->> /path/to/another_file.txt
-/path/to/another_file.txt added to backup targets.
->> 
-Specify the destination of the backup:
+backup: start the backup.
+exit: Exits the shell.
+help: Print the list of commands.
 
->> Please provide me with the destination of the backup (or press enter to finish:)
->> /path/to/backup_destination
-Please type the backup name:
->> my_backup
-Backup is done!
-The backup is created and saved as /path/to/backup_destination/my_backup_timestamp.tar.gz.
 
 Contributing
 Contributions to the Backup Shell project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
