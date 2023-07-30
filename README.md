@@ -15,7 +15,7 @@ git clone https://github.com/taqiyeddinedj/backup.git
 Change directory to the cloned repository:
 cd backup-shell
 
-#Usage
+# Usage
 Run the Backup Shell script:
 
 
